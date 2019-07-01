@@ -1,0 +1,16 @@
+2019/7/1 
+1. React生命周期函数的概念，state和props，子组件之间传递信息的方式
+    Redux中store、action、reducer的概念；connect函数
+   
+2. CSS animation和@keyframes的用法实践,animation-timing-function初用
+
+3.ES6 Class基本概念
+
+4.webpack 学习：了解package.json script，devdependencies和dependencies的区别，
+webpack.config.js文件中loader的相关用法和文档查找方法
+遗留知识点
+  1.ES6 Module导入导出写法，Genertator 函数是什么，Promise，Asyc函数
+  2.Redux的异步
+  3.React的ref
+  4.JS原型
+  5.DOM API BOM API
